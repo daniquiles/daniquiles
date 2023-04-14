@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniquiles
 - 👀 I’m interested in Python, Arduino, Electronics, C++, Shell..  
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, TEX
 - 💞️ I’m looking to collaborate 
 
 
